@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623888346 source:c:\users\carlos alberto\desktop\prova urna\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1624324517 source:c:\users\carlos alberto\desktop\prova-urna\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
